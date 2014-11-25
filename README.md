@@ -7,5 +7,5 @@ manually copy pop into project.
 
 * add SceneKit.framework
 
-* use #import "POP.h"   in place    //#import <POP/POP.h>
+* use #import "POP.h"   in place    `#import <POP/POP.h>`
 
